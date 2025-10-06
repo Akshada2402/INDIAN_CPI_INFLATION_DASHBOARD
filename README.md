@@ -35,7 +35,7 @@ OVERALL LOOK OF DASHBOARD :-
 
 
 
-Total % SHARE OF CPI FOR RURAL AREA 
+**Total % SHARE OF CPI FOR RURAL AREA** 
 
 
 
@@ -44,7 +44,7 @@ Total % SHARE OF CPI FOR RURAL AREA
 
 
 
-Growth rate YoY with % inflation rate
+**Growth rate YoY with % inflation rate**
 
 
 <img width="443" height="287" alt="GROWTH RATE" src="https://github.com/user-attachments/assets/8b23bb73-d10b-4efe-ab49-b6d751e61cb5" />
@@ -52,7 +52,7 @@ Growth rate YoY with % inflation rate
 
 
 
-MoM inflation by sector wise  
+**MoM inflation by sector wise**  
 
 
 <img width="846" height="340" alt="MOM INFLATION" src="https://github.com/user-attachments/assets/47c21f4b-520c-49d7-95bb-306fa2c3723b" />
@@ -62,7 +62,7 @@ MoM inflation by sector wise
 
 
 
-Change in Inflation Rates Before and After COVID-19 
+**Change in Inflation Rates Before and After COVID-19** 
 
 
 

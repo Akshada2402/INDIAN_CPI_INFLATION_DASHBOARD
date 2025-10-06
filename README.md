@@ -10,3 +10,5 @@ This dashboard visualizes India's Consumer Price Index (CPI) inflation trends ac
 - MoM and YoY trend analysis  
 - Oil price impact on rural categories  
 - Interactive filters by type, sector, and period
+
+![Uploading image.png…]()

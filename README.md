@@ -1,4 +1,4 @@
-<img width="1522" height="118" alt="image" src="https://github.com/user-attachments/assets/a9e72362-3615-4f3b-b55a-f56d71e2c668" /><img width="404" height="294" alt="Screenshot 2025-10-06 161434" src="https://github.com/user-attachments/assets/02dd94f8-efda-4e19-afff-cb1133875386" />
+
 ## 📊 Indian CPI Inflation Dashboard
 
 This dashboard visualizes India's Consumer Price Index (CPI) inflation trends across key sectors like Food, Housing, Fuel, and more. It highlights rural vs urban differences, monthly and yearly inflation shifts, and the impact of COVID-19 and oil prices.
